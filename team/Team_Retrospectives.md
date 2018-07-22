@@ -12,7 +12,7 @@ We begin by evaluating actions from our last retrospective. If we feel that some
 ## Rule
 While we can choose to change the format, frequency, or attendees of retrospectives as we grow, we cannot cancel them altogether. Retrospectives are our one mandatory process element. Without them, we risk stagnation or dysfunction.
 
-##Guidelines
+## Guidelines
 * Topics can include anything from how we communicate to where the printer is located. If something is bothering you while you're working or you have a really positive experience, jot down some notes and bring these to the retrospective.
 * Topics can be negative or positive. Ask yourself what's getting in your way, but also what's working really well. Can we do less of the former and more of the latter? This is important. Fixing issues is obviously critical, but discovery, recognition, and dissemination of new, better ways of doing things is important to our growth.
 * Discussion is often streamlined if you can bring at least one concrete suggestion along with a topic. That is, try to have an action in mind when proposing a topic. However, if you can't think of any reasonable actions to propose, don't let that stop you from raising the issue and asking the team to help you brainstorm actions.
